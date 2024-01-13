@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vignesh160201/front_end/static/css/main.627573b7.css",
+    "main.js": "/Vignesh160201/front_end/static/js/main.3c960c36.js",
+    "static/js/787.119df415.chunk.js": "/Vignesh160201/front_end/static/js/787.119df415.chunk.js",
+    "static/media/back2.png": "/Vignesh160201/front_end/static/media/back2.244a0deece6e02687b90.png",
+    "static/media/contact.jpg": "/Vignesh160201/front_end/static/media/contact.08be1c45dda962e56743.jpg",
+    "static/media/back.jpg": "/Vignesh160201/front_end/static/media/back.0a9c81d7b37bb9b4bfd0.jpg",
+    "static/media/about.jpg": "/Vignesh160201/front_end/static/media/about.8abb7e61674744872eba.jpg",
+    "index.html": "/Vignesh160201/front_end/index.html",
+    "static/media/pen.svg": "/Vignesh160201/front_end/static/media/pen.1bd74fe21bfba125243d0325c9300f0c.svg",
+    "static/media/logo.svg": "/Vignesh160201/front_end/static/media/logo.8f21621e08a7def1535b4a4703b55968.svg",
+    "static/media/person.svg": "/Vignesh160201/front_end/static/media/person.1e43698d155cc5fc68f12051515ec9ab.svg",
+    "static/media/power.svg": "/Vignesh160201/front_end/static/media/power.1ed7b00a887e203dd8d972880fe6cf4e.svg",
+    "main.627573b7.css.map": "/Vignesh160201/front_end/static/css/main.627573b7.css.map",
+    "main.3c960c36.js.map": "/Vignesh160201/front_end/static/js/main.3c960c36.js.map",
+    "787.119df415.chunk.js.map": "/Vignesh160201/front_end/static/js/787.119df415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627573b7.css",
+    "static/js/main.3c960c36.js"
+  ]
+}
